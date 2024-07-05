@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "chat-app-realm",
+    "slug": "chat-app-realm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
